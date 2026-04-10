@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+Pillow
+streamlit-drawable-canvas
+gdstk
+pandas
+XlsxWriter
+openpyxl
